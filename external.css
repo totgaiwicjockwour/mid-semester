@@ -1,0 +1,17 @@
+
+EXTERNAL.CSS
+body{
+    background-color: rgb(170, 235, 182);
+    color: black;
+}
+.h1{
+    background-color: rgb(225, 255, 0);
+    color: rgb(246, 248, 250);
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.div{
+    background-color: rgb(198, 205, 211);
+    color: black;
+}
